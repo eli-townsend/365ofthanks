@@ -2,11 +2,11 @@
 Blogging website for #365ofthanks
 
 ## Pages
-Index ( Posts )
-  Challenge / About
-  Contact
-    Facebook
-    Instagram
+- Index ( Posts )
+  - Challenge / About
+  - Contact
+    - Facebook
+    - Instagram
     
 ## Content
 Index: Page that uses Instagram API to stream post and turn into blog post on wordpress site. All visuals and post built out in grid format.
